@@ -94,7 +94,7 @@ I'm always open to collaborating on interesting projects, especially in backend 
 ### 🌟 Fun Fact:
 
 Coding is like magic; it allows us to turn ideas into reality. Let's create something awesome together!
-
+JavaScript Python TypeScript Context-API Express.js FastAPI NPM NodeJS MongoDB Postman Nginx GitHub Git
 <!--
 **YoussefElkondakly/YoussefElkondakly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
