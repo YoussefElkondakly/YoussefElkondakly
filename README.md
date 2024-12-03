@@ -96,7 +96,7 @@ I'm always open to collaborating on interesting projects, especially in backend 
 Coding is like magic; it allows us to turn ideas into reality. Let's create something awesome together!
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-EE9933?style=for-the-badge&logo=javascript&logoColor=white) 
-![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
+![PostgreSQL](https://www.lightcrest.com/wp-content/uploads/2019/04/postgresql-logo.png)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Context-API](https://img.shields.io/badge/ContextAPI-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
